@@ -1,0 +1,2 @@
+This file is there to ensure the presecence of directory /xfmod/projechomes/ in CVS.
+do not remove it from repository.

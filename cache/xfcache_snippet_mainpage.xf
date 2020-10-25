@@ -1,0 +1,144 @@
+<P>The purpose of this archive is to let you share your code snippets, code examples, scripts, and functions with the Clarion Community.</P><P>You can create a 'new snippet', then post additional versions of that snippet quickly and easily.</P>
+<FORM ACTION="http://dev.xoopscube.org/modules/xfsnippet/browse.php" METHOD="GET">
+<TABLE>
+<TR>
+<TD colspan=2>
+<B>Contains:</B><BR />
+<INPUT type="text" name="text" size=30>
+</TD>
+</TR>
+<TR>
+<TD><B>Language:</B><BR />
+<SELECT NAME="lang">
+<OPTION VALUE="109" SELECTED>Any</OPTION>
+<OPTION VALUE="102">C</OPTION>
+<OPTION VALUE="116">C#</OPTION>
+<OPTION VALUE="103">C++</OPTION>
+<OPTION VALUE="100">Choose One</OPTION>
+<OPTION VALUE="108">Java</OPTION>
+<OPTION VALUE="114">Javascript</OPTION>
+<OPTION VALUE="112">Lisp</OPTION>
+<OPTION VALUE="113">Mixed</OPTION>
+<OPTION VALUE="101">Other Language</OPTION>
+<OPTION VALUE="104">Perl</OPTION>
+<OPTION VALUE="105">PHP</OPTION>
+<OPTION VALUE="106">Python</OPTION>
+<OPTION VALUE="115">SQL</OPTION>
+<OPTION VALUE="111">TCL</OPTION>
+<OPTION VALUE="107">Unix Shell</OPTION>
+<OPTION VALUE="110">Visual Basic</OPTION>
+</SELECT>
+<BR />
+<A HREF="http://dev.xoopscube.org/modules/xfmod/tracker/?func=add&group_id=1011&atid=145">Suggest a Language</A>
+</TD>
+<TD><B>Category:</B><BR />
+<SELECT NAME="cat">
+<OPTION VALUE="104" SELECTED>Any</OPTION>
+<OPTION VALUE="105">Calendars</OPTION>
+<OPTION VALUE="100">Choose One</OPTION>
+<OPTION VALUE="106">Database Manipulation</OPTION>
+<OPTION VALUE="108">File Management</OPTION>
+<OPTION VALUE="113">Math Functions</OPTION>
+<OPTION VALUE="112">Other</OPTION>
+<OPTION VALUE="107">Searching</OPTION>
+<OPTION VALUE="117">Shared Functions</OPTION>
+<OPTION VALUE="111">Shopping Carts</OPTION>
+<OPTION VALUE="118">Styling / CSS etc</OPTION>
+<OPTION VALUE="110">Voting</OPTION>
+<OPTION VALUE="114">Xoops Admin Area</OPTION>
+<OPTION VALUE="116">Xoops Forum xhnewbb</OPTION>
+</SELECT>
+<BR />
+<A HREF="http://dev.xoopscube.org/modules/xfmod/tracker/?func=add&group_id=1011&atid=145">Suggest a Category</A>
+</TD>
+</TR>
+<TR>
+<TD><B>Type:</B><BR />
+<SELECT NAME="type">
+<OPTION VALUE="100" SELECTED>Any</OPTION>
+<OPTION VALUE="106">Class</OPTION>
+<OPTION VALUE="107">Core Hack</OPTION>
+<OPTION VALUE="103">Full Script</OPTION>
+<OPTION VALUE="102">Function</OPTION>
+<OPTION VALUE="101">Hack</OPTION>
+<OPTION VALUE="105">README</OPTION>
+<OPTION VALUE="104">Sample Code (HOWTO)</OPTION>
+</SELECT>
+<BR />
+<A HREF="http://dev.xoopscube.org/modules/xfmod/tracker/?func=add&group_id=1011&atid=145">Suggest a Script Type</A>
+</TD>
+<TD><B>License:</B><BR />
+<SELECT NAME="license">
+<OPTION VALUE="0">GNU General Public License (GPL)</OPTION>
+<OPTION VALUE="1">GNU Lesser General Public License (LGPL)</OPTION>
+<OPTION VALUE="2">Artistic License</OPTION>
+<OPTION VALUE="3">BSD License</OPTION>
+<OPTION VALUE="4">MIT/X Consortium License</OPTION>
+<OPTION VALUE="5">Mozilla Public License (MPL)</OPTION>
+<OPTION VALUE="6">QT Public License (QPL)</OPTION>
+<OPTION VALUE="7">IBM Public License</OPTION>
+<OPTION VALUE="8">MITRE Collaborative Virtual Workspace License (CVW)</OPTION>
+<OPTION VALUE="9">Ricoh Source Code Public License</OPTION>
+<OPTION VALUE="10">Python License</OPTION>
+<OPTION VALUE="11">zlib/libpng License</OPTION>
+<OPTION VALUE="12">Other/Proprietary License</OPTION>
+<OPTION VALUE="13">Public Domain</OPTION>
+<OPTION VALUE="14">Apache Software License</OPTION>
+<OPTION VALUE="15">Vovida Software License</OPTION>
+<OPTION VALUE="16">Sun Industry Standards Source License</OPTION>
+<OPTION VALUE="17">Intel Open Source License</OPTION>
+<OPTION VALUE="18">Mozilla Public License 1.1</OPTION>
+<OPTION VALUE="19">Jabber Open Source License</OPTION>
+<OPTION VALUE="20">Nokia Open Source License</OPTION>
+<OPTION VALUE="21">Sleepycat License</OPTION>
+<OPTION VALUE="22">Nethack General Public License</OPTION>
+<OPTION VALUE="23">Common Public License</OPTION>
+<OPTION VALUE="24">Apple Public Source License</OPTION>
+<OPTION VALUE="25" SELECTED>Any</OPTION>
+</SELECT><BR />&nbsp;
+</TD>
+</TR>
+<TR><TD COLSPAN="2" ALIGN="MIDDLE">
+<INPUT TYPE="SUBMIT" NAME="SUBMIT" VALUE="Search">
+</TD></TR>
+</TABLE>
+</FORM>
+<TABLE WIDTH="100%" BORDER="0">
+<TR><TD></TD></TR>
+<TR><TD>
+<B>Browse by Language:</B>
+<P>
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=101">Other Language</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=102">C</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=103">C++</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=104">Perl</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=105">PHP</A> (3)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=106">Python</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=107">Unix Shell</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=108">Java</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=109">AppleScript</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=110">Visual Basic</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=111">TCL</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=112">Lisp</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=113">Mixed</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=114">Javascript</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=115">SQL</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=lang&lang=116">C#</A> (0)<BR /></TD>
+<TD>
+<B>Browse by Category:</B>
+<P>
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=117">Shared Functions</A> (3)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=116">Xoops Forum xhnewbb</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=104">Auctions</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=105">Calendars</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=106">Database Manipulation</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=107">Searching</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=108">File Management</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=110">Voting</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=111">Shopping Carts</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=112">Other</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=113">Math Functions</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=114">Xoops Admin Area</A> (0)<BR />
+<LI><A HREF="http://dev.xoopscube.org/modules/xfsnippet/browse.php?by=cat&cat=118">Styling / CSS etc</A> (0)<BR /></TD>
+</TR>
+</TABLE>

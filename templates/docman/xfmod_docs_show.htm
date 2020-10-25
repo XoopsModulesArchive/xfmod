@@ -1,0 +1,18 @@
+<{$project_title}>
+<{$project_tabs}>
+<{$docman_header}>
+<p/>
+<{if $feedback }><div class='errorMsg'><{$feedback}></div><{/if}>
+<p/>
+
+<table id="centercolumn" width="100%" border="0" cellpadding="5" cellspacing="0">
+<tr>
+<td width="75%" valign="top">
+<{$content}>
+</td>
+<td width="10">&nbsp;</td>
+<td id="centerRcolumn" NoWrap valign='top'>
+<{include file="db:xfmod_groupblock.html" title="$docs_title" content="$docs_content"}>
+</td>
+</tr>
+</table>
